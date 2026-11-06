@@ -6,9 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "chappalmasti.aternos.me
-
-",
+    "ip": "chappalmasti.aternos.me",
     "port": 23547,
     "version": "",
     "try-creative": false
